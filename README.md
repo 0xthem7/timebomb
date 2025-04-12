@@ -12,4 +12,4 @@ I don’t know. I’m writing this for myself to stay accountable for the things
 
 |N'th Day | Work                                   |
 | ------- | -------------------------------------- |
-|0'th day | [Day Zero: The Awakening](./0th-Day:/) |
+|0'th day | [Day Zero: The Awakening](./0th-Day/) |
